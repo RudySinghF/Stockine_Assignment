@@ -5,7 +5,7 @@ A new Flutter project.
 ## Getting Started
 
 
-Data Fetched and displayed as List
+Data fetched and displayed as list
 ![Stockine2](https://github.com/RudySinghF/Stockine_Assignment/assets/104096550/71d6d1d0-dbf9-4016-ab14-66c830c5f40e)
 
 API fetched successfully
