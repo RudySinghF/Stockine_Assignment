@@ -8,7 +8,7 @@ A new Flutter project.
 Data fetched and displayed as list
 ![Stockine2](https://github.com/RudySinghF/Stockine_Assignment/assets/104096550/71d6d1d0-dbf9-4016-ab14-66c830c5f40e)
 
-API fetched successfully
+API's data fetched successfully
 ![Stockine](https://github.com/RudySinghF/Stockine_Assignment/assets/104096550/5d93bf05-5f4f-4697-b622-1f9d6997d1cd)
 
 A few resources to get you started if this is your first Flutter project:
